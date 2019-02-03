@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008.01.23 12:58:58.686.dproj,C:\Users\John Doe\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\John Doe\Documents\RAD Studio\Projects\wunderground.dproj</Transaction>
+    <Transaction>2008.01.23 12:59:42.424.pas,C:\Users\John Doe\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\John Doe\Documents\RAD Studio\Projects\W_plugin.pas</Transaction>
+    <Transaction>2008.01.23 13:00:29.296.pas,C:\Users\John Doe\Documents\RAD Studio\Projects\W_plugin.pas=E:\Libor\Programy\Delphi\Weather\Plugins\wunderground\W_plugin.pas</Transaction>
+    <Transaction>2008.01.23 13:00:31.972.dproj,C:\Users\John Doe\Documents\RAD Studio\Projects\wunderground.dproj=E:\Libor\Programy\Delphi\Weather\Plugins\wunderground\wunderground.dproj</Transaction>
+    <Transaction>2008.01.23 13:01:16.313.pas,E:\Libor\Programy\Delphi\Weather\Plugins\wunderground\Unit1.pas=E:\Libor\Programy\Delphi\Weather\Plugins\wunderground\W_plugin_info.pas</Transaction>
+    <Transaction>2008.01.23 13:01:24.804.pas,E:\Libor\Programy\Delphi\Weather\Plugins\wunderground\W_plugin_info.pas=E:\Libor\Programy\Delphi\Weather\SDK\W_plugin_info.pas</Transaction>
+    <Transaction>2008.01.23 13:02:08.561.pas,E:\Libor\Programy\Delphi\Weather\Plugins\wunderground\Unit1.pas=E:\Libor\Programy\Delphi\Weather\Plugins\wunderground\W_plugin_general.pas</Transaction>
+    <Transaction>2008.01.23 13:02:15.190.pas,E:\Libor\Programy\Delphi\Weather\Plugins\wunderground\W_plugin_general.pas=E:\Libor\Programy\Delphi\Weather\Plugins\General\W_plugin_general.pas</Transaction>
+    <Transaction>2008.01.26 12:47:52.297.dproj,E:\Libor\Programy\Delphi\Weather\Plugins\accuweather\wunderground.dproj=E:\Libor\Programy\Delphi\Weather\Plugins\accuweather\accuweather.dproj</Transaction>
+    <Transaction>2008.05.13 07:22:39.212.dproj,E:\Libor\Programy\Delphi\Weather\Plugins\wettercom\accuweather.dproj=E:\Libor\Programy\Delphi\Weather\Plugins\wettercom\wettercom.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
